@@ -1,0 +1,18 @@
+h1,h3{color:darkblue;}
+ul{
+  list-style-type: square;
+}
+img{
+  height: 210px;
+}
+p{
+font-family: 'Comic Sans MS';
+}
+#container{
+  width: 80%;
+  margin: auto;
+  background-color: lightgray; 
+}
+body{
+  background-color: darkblue;
+}
